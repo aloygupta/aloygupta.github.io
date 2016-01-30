@@ -1,0 +1,20 @@
+#fullbody{
+height: 100%;
+width : 100%;
+
+}
+body{
+background-image: url("../images/aloy.jpg");
+background-size:cover;
+}
+
+#myname{
+font-family: 'Montserrat', sans-serif;
+font-size: 1.8em;
+}
+
+#mylinks{
+font-size: 1.4em;
+}
+
+
