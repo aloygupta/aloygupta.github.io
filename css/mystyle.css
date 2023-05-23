@@ -1,6 +1,5 @@
 body {
   background: #FFF;
-   max-width: 90%;
   margin: auto;
   background: white;
   padding: 10px;
@@ -77,7 +76,7 @@ border-radius: 50%;
 }
 
 .poem-body {
-  background-color: white;
+  background-color: yellow;
   color: #555659;
   text-align: center;
   font-size: 8px;
