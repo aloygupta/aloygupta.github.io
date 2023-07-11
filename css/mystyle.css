@@ -70,7 +70,7 @@ border-radius: 50%;
   background-color: white;
   color: #555659;
   text-align: center;
-  font-size: 32px;
+  font-size: calc(.3em + 5vw);
   font-weight: 800;
 
 }
@@ -79,7 +79,7 @@ border-radius: 50%;
   background-color: white;
   color: #555659;
   text-align: center;
-  font-size: 14px;
+  font-size: calc(.6em + 1.5vw);
   font-weight: 500;
   font-family: 'Libre Baskerville', serif;
 }
